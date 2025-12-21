@@ -1,23 +1,23 @@
-🧠 Brain Tumor Classification using CNN & Transfer Learning
-📌 Project Overview
+🧠 **Brain Tumor Classification using CNN & Transfer Learning**
+📌 **Project Overview**
 
-This project focuses on automatic brain tumor classification from MRI images using Deep Learning.
+  This project focuses on automatic brain tumor classification from MRI images using Deep Learning.
 Both a Custom Convolutional Neural Network (CNN) and a Transfer Learning model (EfficientNetB0) are implemented, evaluated, and compared.
 A Streamlit web application is developed to allow users to upload MRI images and receive real-time predictions with confidence scores.
 
-🎯 Objectives
+**🎯 Objectives**
 
-Classify brain MRI images into four tumor categories:
+**Classify brain MRI images into four tumor categories:**
 
-Glioma
+----> Glioma
 
-Meningioma
+----> Meningioma
 
-No Tumor
+---->No Tumor
 
-Pituitary
+----> Pituitary
 
-Build and train:
+**Build and train:**
 
 A Custom CNN
 
